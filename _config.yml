@@ -6,13 +6,13 @@
 lang: "en"
 
 # Name of your site (displayed in the header)
-title: Forever Jekyll
+title: Cara's Blog
 
 # Short bio or description (displayed in the header)
-description: A simple, elegant and full featured Jekyll theme
+description: This is a blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /assets/image/avatar.png
+avatar: /assets/image/honeyimage.jpeg
 
 #
 # Flags below are optional
@@ -41,16 +41,16 @@ navigation_links:
 
 # Footer icons
 footer_links:
-  - title: Feed
-    url: feed.xml
+  - title: Email
+    url: cnlamina@loyol.aedu
     icon: fa fa-rss-square
 
-  - title: Twitter
-    url: https://twitter.com/jekyllrb
-    icon: fa fa-twitter-square
+  # - title: Twitter
+    # url: https://twitter.com/jekyllrb
+    # icon: fa fa-twitter-square
 
   - title: GitHub
-    url: https://github.com/forever-jekyll
+    url: https://github.com/clamina
     icon: fa fa-github-square
 
 # Enter your copyright text if you wish to override the default one.
