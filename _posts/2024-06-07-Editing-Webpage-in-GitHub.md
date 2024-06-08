@@ -95,5 +95,5 @@ And you are gonna want to sync your changes to GitHub. Select *Source Control* l
 
 Amazing work! Now you know how to create posts, insert images, and embed links. 
 
-[](https://giphy.com/gifs/bustle-3o85xsz5nqVjzphbZC)
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtheWcyeGtobHhwOW5jc2lldDU2MWRyY3hucnFodWZ1aWF6d3ZuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xsz5nqVjzphbZC/giphy.webp)
 
