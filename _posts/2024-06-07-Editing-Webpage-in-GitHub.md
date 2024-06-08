@@ -1,4 +1,3 @@
-# Editing Webpage in GitHub
 ### Cara Lamina
 
 Hello! Here are some quick instructions on how to write in Markdown, create posts, embed images and links, and save your work. 
@@ -26,7 +25,7 @@ Repositories are where you can store you code, your files, and each file's histo
 
 2. Once you have entered your repository, click on the posts folder. 
 
-3. Next, hit *Add file* > *Create new file*. You will want to title your file YEAR-MM-DY-titleofyourpost.md. 
+3. Next, hit *Add file* > *Create new file*. You will want to title your file YEAR-MM-DY-title-of-your-post.md (the dashes appear as spaces in your title).
 
 4. Once you have entered your new file, press the *period* button to enter into cospace developer. Here, you will be able to write your posts in markdown!
 
