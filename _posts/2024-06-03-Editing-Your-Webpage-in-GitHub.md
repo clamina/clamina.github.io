@@ -47,7 +47,7 @@ Images are an important tool to use in digital communication—whether you are p
 
 How did I upload such an awesome image? Glad you asked! There are two ways we are gonna look at to see how to upload images. 
 
-### Upload from your computer
+### Upload from your files
 
 1. Select the *Explorer* tab on the left side of your cospace developer. This is the first icon that resembles two pages of paper. 
 
@@ -65,7 +65,7 @@ This directs the program to the *assests* > *image* > your selected image.
 
 ### Use image from web
 
-If you are using images from the web, make sure they are royaltly free. I like using [Unsplash](https://unsplash.com/).
+If you are using images from the web, make sure they are royaltly-free. I like using [Unsplash](https://unsplash.com/).
 
 1. Go to the web and select your desired image.
 
