@@ -21,7 +21,7 @@ Repositories are where you can store you code, your files, and each file's histo
 
 1. Go to your GitHub Dashboard and enter into the repository (found the the page's left hand side). 
 
-2. Once you have entered your repository, click on the posts folder. 
+2. Once you have entered your repository, click on the *posts* folder. 
 
 3. Next, hit *Add file* > *Create new file*. You will want to title your file YEAR-MM-DY-title-of-your-post.md (the dashes appear as spaces in your title).
 
@@ -59,7 +59,7 @@ How did I upload such an awesome image? Glad you asked! There are two ways we ar
 
 5. Now that your image is uploaded to the cospace developer, we can direct the program toward your image using markdown. 
 
-![](/assets/image/fileupload.png)
+'![](/assets/image/exampleimage.png)'
 
 This directs the program to the *assests* > *image* > your selected image. 
 
@@ -73,7 +73,7 @@ If you are using images from the web, make sure they are royaltly-free. I like u
 
 3. Direct the program to your image on the web by writing, inserting your image adress in between the parentheses. 
 
-![](/assets/image/imageadress.png)
+'![](/assets/image/https://exampleimageaddress.org)'
 
 Once again, you will need to commit these changes to synce them to GitHub. Select *Source Control*, label your change, and hit *Commit & Push* to sync. 
 
@@ -95,4 +95,4 @@ Amazing work! Now you know how to create posts, insert images, and embed links.
 
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtheWcyeGtobHhwOW5jc2lldDU2MWRyY3hucnFodWZ1aWF6d3ZuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xsz5nqVjzphbZC/giphy.webp)
 
-By: Cara Lamina 
+
