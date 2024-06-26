@@ -85,9 +85,9 @@ Embedding links into your post can allow you to easily direct your reader to oth
 
 1. Copy your desired *url* from the web. 
 
-2. Write the following markdown, titling the hyperlink in between the brackets and pasting the *url* in the following parentheses.
+2. Write the following markdown, placing the link text in between square brackets and pasting the *url* in the following parentheses.
 
-![](/assets/image/url.png) 
+`[click me](https://example.org)`
 
 And you are gonna want to sync your changes to GitHub. Select *Source Control* label your change, and hit *Commit & Push* to sync. 
 
