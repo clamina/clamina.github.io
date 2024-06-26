@@ -59,7 +59,7 @@ How did I upload such an awesome image? Glad you asked! There are two ways we ar
 
 5. Now that your image is uploaded to the cospace developer, we can direct the program toward your image using markdown. 
 
-'![](/assets/image/exampleimage.png)'
+`![](/assets/image/exampleimage.png)`
 
 This directs the program to the *assests* > *image* > your selected image. 
 
@@ -73,7 +73,7 @@ If you are using images from the web, make sure they are royaltly-free. I like u
 
 3. Direct the program to your image on the web by writing, inserting your image adress in between the parentheses. 
 
-'![](/assets/image/https://exampleimageaddress.org)'
+`![](/assets/image/https://exampleimageadress.org)` 
 
 Once again, you will need to commit these changes to synce them to GitHub. Select *Source Control*, label your change, and hit *Commit & Push* to sync. 
 
