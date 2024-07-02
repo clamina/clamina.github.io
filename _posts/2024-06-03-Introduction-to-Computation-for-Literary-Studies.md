@@ -1,4 +1,4 @@
-## *“What is humanities data?”*
+### *“What is humanities data?”*
 
 Our instructor at the Digital Humanities Summer Institute began our course with this question. Even though the room was full of humanisits, we were stumped. After a moment, someone tentatively suggested, “Texts?”
 
