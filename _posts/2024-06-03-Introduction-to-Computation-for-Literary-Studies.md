@@ -32,7 +32,7 @@ While machine computation and the “subjectivity” of humanities research appe
 
 ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWswZXVqYW81OGF6Z29lZnU1NzhxN3kwenl3dDFkanpyNWY1azhiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kvl2YhR110qsBrHid2/giphy.gif)
 
-Katie, Dr. Forni, and I in our Introduction to Computation for Literary Studies Course
+Katie, Dr. Forni, and me in our Introduction to Computation for Literary Studies Course.
 
 
 
