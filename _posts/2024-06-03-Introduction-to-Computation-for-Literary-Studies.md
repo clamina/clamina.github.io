@@ -26,7 +26,9 @@ Other interesting conversations centered around the ethicality of using these to
 
 While machine computation and the “subjectivity” of humanities research appear to be complete opposites within scholarship, this course demonstrates how computation can help guide, visualize, and even provide keen insights to literary research endeavors. 
 
-The following posts will dive into the main topics of the course, and many of the cool tools that we used through the week! 
+
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWswZXVqYW81OGF6Z29lZnU1NzhxN3kwenl3dDFkanpyNWY1azhiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kvl2YhR110qsBrHid2/giphy.gif)
+Katie, Dr. Forni, and I in our Introduction to Computation for Literary Studies Course. 
 
 
 
