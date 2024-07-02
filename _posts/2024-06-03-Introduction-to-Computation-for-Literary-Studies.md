@@ -1,6 +1,8 @@
 ## *“What is humanities data?”*
 
-After our class introductions, our instructor at the Digital Humanities Summer Institute threw this question out for discussion. And we were stumped. “Texts?” someone said, tentatively. “Yeah, texts can be data. What else?” The answers began flying in from there. 
+Our instructor at the Digital Humanities Summer Institute began our course with this question. Even though the room was full of humanisits, we were stumped. After a moment, someone tentatively suggested, “Texts?”
+
+ “Yeah, texts can be data. What else?” The answers began flying in from there. 
 
 One woman shared her studies of graphic novels and said that comic panels serve as her data. Another pair of humanists described how they study different translations of texts and how diction and syntax are important pieces of their research. A librarian suggested that images can be data as well. Someone else said films, and another said recordings of speeches or historical events. All of these different pieces of media are considered to be “humanities data.” 
 
