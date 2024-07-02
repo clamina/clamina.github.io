@@ -12,7 +12,7 @@ This blog commemorates Cara's exprience at the Digital Humanities Summer Institu
 
 ![](/assets/image/teamwork.png)
 
-![](/assets/image/oracas.png)
+![](/assets/image/orcas.png)
 
 
 
