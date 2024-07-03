@@ -1,6 +1,6 @@
 Text analysis, also known as text mining or natural language processing, involves extracting meaningful insights and patterns from written text. Computational tools can be extremely helpful in extracting patterns in text, especially when there is a large amount of text to cover in analysis. 
 
-Textual visualization refers to the graphical representation of textual data to visually depict patterns, relationships, and trends within the text. By highlighting keywords, phrases, and themes, these visualizations facilitate quicker identification of important information from a text. Visualizations can also bridge the gap between textual complexity and human understanding, making textual data more accessible, interpretable, and actionable. During our first session of the Introduction to Computation for Literary Studies, we explored three programs used for text analysis and visualization.
+Textual visualization refers to the graphical representation of textual data to visually depict patterns, relationships, and trends within the text. By highlighting keywords, phrases, and themes, these visualizations facilitate quicker identification of important information from a text. Visualizations can also bridge the gap between textual complexity and human understanding, making textual data more accessible, interpretable, and actionable. During our first session of the Introduction to Computation for Literary Studies course, we explored three programs used for text analysis and visualization.
 
 ### AntConc and Sublime Text
 
