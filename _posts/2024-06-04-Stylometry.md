@@ -21,5 +21,7 @@ Another exercise our instructor led us through required each participant of the 
 
 ![](/assets/image/clusteranaylsis.png)
 
-Clustered, huh? After the program created this visualization, our class began to examine which texts were clustered together. From there, we began to brainstorm about the possible similarities the program had identified for each cluster. Our forensic analysis did not stop at the end of the *R package*. We continued to question why the program may be sorting certain texts together, how the different languages affected its sorting, and the extent of this tool’s use in scholarship. 
+Clustered, huh? After the program created this visualization, our class began to examine which texts were clustered together. From there, we began to brainstorm about the possible similarities the program had identified for each cluster. Our forensic analysis did not stop at the end of the *R package*. We continued to question why the program may be sorting certain texts together, how the different languages affected its sorting, and the extent of this tool’s use in scholarship.
+
+ 
 This was just a taste of the experiments that computational linguists and other digital humanists are conducting using *Stylo*. It’s a fascinating application of both data science and linguistic analysis which contributes to advancements in fields where understanding language and authorship are pivotal. This lesson in stylometry truly cemented the interdisciplinary nature of the digital humanities in my mind, and has opened my eyes to the research collaborations possible across disciplines. 
