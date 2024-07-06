@@ -12,7 +12,7 @@ A digital mapping project that interested me was [A People’s Atlas of Nuclear 
 
 Geospatial representations are not just about visualizing data but also about analyzing spatial patterns and relationships. The Atlas is not only a digital map but consists of curated “pathways” of information and interpretation of how nuclear weapons affect people’s lives, local economics, regional identities, and the environment. After clicking on a location on the map, the site directs you to a description of the place and then suggests another location to mimic the path that the radioactive materials travel throughout in Colorado. This is called “scrollytelling”—a way to tell multimedia stories by scrolling through a website. Additionally, the site includes scholarly essays and artwork about the environmental, social, technical, and ethical ramifications of nuclear mining and weapon production. The image below displays the introductory pathway of the Atlas. 
 
-![](/assets/image/nuclearcoroado.png)
+![](/assets/image/nuclearcolorado.png)
 
 This map was extremely interesting to me because it presents the viewer with a spatial representation of these nuclear plants, weapon factories, and military bases alongside numerous literary resources and artistic representations of the effect of the nuclear industrial complex in Colorado. Exploring the site was a fascinating way to learn more about the issues of these processes, and a wonderful example of how geospatial technologies can be used to present literary information in creative and interactive ways. 
 
@@ -25,9 +25,13 @@ After exploring different mapping projects, our class set out to create our own 
 
 From there, the program visualizes the coordinates onto a map, attaching the annotated text to that coordinate so you can press on the location and be directed to where it appears in Thucydides’s History. Experimenting with this program was an interesting exercise to explore a different way people can approach and annotate texts. 
 
-Geospatial representations offer literary scholars new methodologies for studying spatial aspects of texts, uncovering hidden geographical dimensions, and fostering interdisciplinary approaches that bridge literature with geography, history, cultural studies, and digital humanities. This lesson was my favorite of the course because of the digital mapping projects we explored as a class. I was extremely intrigued by the multimedia scrollytelling projects and how they presented their data and interpretations. Below I will link some other digital mapping projects and scrollytelling sites that piqued my interest!
+### More Maps!
 
-An interesting combination of Victorian literature and geospatial visualization:[Mapping Emotions in Victorian London](https://www.historypin.org/en/victorian-london/geo/51.5128,-0.116085,12/bounds/51.431,-0.116085,51.594453,-0.116085/paging/1)
+Geospatial representations offer literary scholars new methodologies for studying spatial aspects of texts, uncovering hidden geographical dimensions, and fostering interdisciplinary approaches that bridge literature with geography, history, cultural studies, and digital humanities. This lesson was my favorite of the course because of the digital mapping projects we explored as a class. I was extremely intrigued by the multimedia scrollytelling projects and how they presented their data and interpretations. 
+
+#### Below I will link some other digital mapping projects and scrollytelling sites that piqued my interest!
+
+An interesting combination of Victorian literature and geospatial visualization: [Mapping Emotions in Victorian London](https://www.historypin.org/en/victorian-london/geo/51.5128,-0.116085,12/bounds/51.431,-0.116085,51.594453,-0.116085/paging/1)
 
 Scrollytelling of where and why Amazon locates its warehouses: [Mapping Amazon](https://storymaps.arcgis.com/stories/adc5ff253a3643f88d39e7f3ef1a09ee)
 
