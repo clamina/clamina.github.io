@@ -29,7 +29,7 @@ From there, the program visualizes the coordinates onto a map, attaching the ann
 
 Geospatial representations offer literary scholars new methodologies for studying spatial aspects of texts, uncovering hidden geographical dimensions, and fostering interdisciplinary approaches that bridge literature with geography, history, cultural studies, and digital humanities. This lesson was my favorite of the course because of the digital mapping projects we explored as a class. I was extremely intrigued by the multimedia scrollytelling projects and how they presented their data and interpretations. 
 
-##### Here are some other digital mapping projects and scrollytelling sites that piqued my interest!
+#### Here are some other digital mapping projects and scrollytelling sites that piqued my interest!
 
 An interesting combination of Victorian literature and geospatial visualization: [Mapping Emotions in Victorian London](https://www.historypin.org/en/victorian-london/geo/51.5128,-0.116085,12/bounds/51.431,-0.116085,51.594453,-0.116085/paging/1)
 
