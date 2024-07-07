@@ -2,6 +2,8 @@ Geospatial representations refer to visual or digital depictions of data and inf
 
 During the third day of our Introduction to Computation for Literary Studies course, we explored different geospatial representations created by digital humanists and worked with programs to create our own visualizations. 
 
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JhNjVoZzk3MWRjdzg0YWFhaXFsdHFyeXdlNDJka3g1cmo4c3BvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lnu8wQRUVf5TvjjtnS/giphy-downsized-large.gif)
+
 ### Harnessing the Geospatial for Literary Studies
 
 Geospatial representations can be used in literary studies to enhance the understanding, analysis, and interpretation of literary texts about their geographical contexts. Spatial technology can help trace patterns of geographic references unseen through close reading and help trace the movement of people, characters, and events in a narrative. They can also be valuable tools for teaching and pedagogy because they allow students to explore spatial dimensions of text visually. Additionally, these representations can facilitate the examination of spatial changes through history (like empire and nation-building) from a cartographic perspective. 
