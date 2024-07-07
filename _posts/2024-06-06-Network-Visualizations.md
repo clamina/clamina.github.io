@@ -1,6 +1,10 @@
 Text visualizations transform complex textual data into visual representations that are easier to understand and interpret. They provide a visual summary of textual content, revealing patterns, trends, and relationships that may not be immediately apparent from raw text alone. An example of these visualizations is networks. 
 
-Network visualizations refer to graphical representations of networks, which are structures composed of nodes (vertices) and edges (links) that connect pairs of nodes. In literary studies, these visualizations depict and analyze relationships, interactions, connections, and patterns within narratives. Interactive network visualizations allow users to explore and interact with the network data. Users can zoom in and out, filter nodes or edges based on attributes, highlight connections, and uncover patterns or anomalies. 
+Network visualizations refer to graphical representations of networks, which are structures composed of nodes (vertices/connected dots) and edges (links/connecting lines) that connect pairs of nodes. 
+
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHpqcnBvcW51NnNseWxnNDNvMDhucnJ0ZnF2Z3VuZmg3cHExNDZqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fw8uZriJW4TlhmZnUj/giphy-downsized-large.gif)
+
+In literary studies, these visualizations depict and analyze relationships, interactions, connections, and patterns within narratives. Interactive network visualizations allow users to explore and interact with the network data. Users can zoom in and out, filter nodes or edges based on attributes, highlight connections, and uncover patterns or anomalies. 
 
 An example of network visualizations created within the literary community is Martin Granjean’s [Network Visualization: Mapping Shakespeare’s Tragedies](https://www.martingrandjean.ch/network-visualization-shakespeare/). In his visualization, he took a corpus of eleven Shakespearean tragedies and represented each play in terms of the characters' interactions. Here is Granjean’s network of Romeo and Juliet (check out [his website](https://www.martingrandjean.ch/network-visualization-shakespeare/) for the other visualizations):
 
