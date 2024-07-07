@@ -12,6 +12,8 @@ As a class, we looked at many examples of digital atlases created by humanists. 
 
 A digital mapping project that interested me was [A People’s Atlas of Nuclear Colorado](https://www.coloradonuclearatlas.org). This digital atlas “invites users to explore nuclear geographies, policy issues, artistic responses, and personal and scholarly reflections on the U.S. nuclear complex” (Kanouse and Krupar). The website’s digital map documents mines and mills, nuclear plants, processing sites, weapon production factories, and military bases within Colorado to track the movement of these radioactive materials. 
 
+![](/assets/image/nuclearatlas.png)
+
 Geospatial representations are not just about visualizing data but also about analyzing spatial patterns and relationships. The Atlas is not only a digital map but consists of curated “pathways” of information and interpretation of how nuclear weapons affect people’s lives, local economics, regional identities, and the environment. After clicking on a location on the map, the site directs you to a description of the place and then suggests another location to mimic the path that the radioactive materials travel throughout in Colorado. This is called “scrollytelling”—a way to tell multimedia stories by scrolling through a website. Additionally, the site includes scholarly essays and artwork about the environmental, social, technical, and ethical ramifications of nuclear mining and weapon production. The image below displays the introductory pathway of the Atlas. 
 
 ![](/assets/image/nuclearcolorado.png)
