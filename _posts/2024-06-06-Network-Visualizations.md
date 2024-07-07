@@ -1,4 +1,4 @@
-Text visualizations transform complex textual data into visual representations that are easier to understand and interpret. They provide a visual summary of textual content, revealing patterns, trends, and relationships that may not be immediately apparent from raw text alone. An example of these visualizations is networks. 
+During our last day of the Introduction to Computation for Literary Studies Course, we discussed a visualization called a network. 
 
 Network visualizations refer to graphical representations of networks, which are structures composed of nodes (discrete entities in a network) and the edges (specific instances of relations between nodes). The nodes appear as dots that are connected by streching edges.
 
@@ -25,5 +25,7 @@ In class, our instructor provided us with a file of data consisting of Character
 
 From this visualization, our class examined how the characters were grouped and how the main characters were populated in the middle of the network. Palladio allows you to interact with the visualization to zoom in on clusters for investigation and customize how you want the visualization to appear. Our time spent with Palladio allowed us to examine how these machines receive the data for networks and how we can make our own visualizations in the future. 
 
-Network visualizations are especially useful for scholars who wish to publish their data in an accessible way so that people within and outside the literary community can understand their findings. Network visualizations represent just one of the many visualization tools that we learned throughout this course that allow humanists to creatively present their data to the world. 
+Text visualizations transform complex textual data into visual representations that are easier to understand and interpret. They provide a visual summary of textual content, revealing patterns, trends, and relationships that may not be immediately apparent from raw text alone. 
+
+Network visualizations are especially useful for scholars who wish to publish their data in an accessible way so that people within and outside the literary community can understand their findings. Network visualizations are just one of the many visualization tools that we learned throughout this course that allow humanists to creatively present their data to the world. 
 
