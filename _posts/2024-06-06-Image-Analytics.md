@@ -33,4 +33,7 @@ From this image grid, I can start to hypothesize how the program sorted the corp
 
 As a class, we shared interesting insights we pulled from this exercise. One participant shared that she uploaded a corpus of paintings of animals, and the program had a difficult time matching abstract animals to their discernable counterparts. Others noticed that the program produced different grids when they adjusted the workflow to analyze the images against a “Painters'' profile. The categorization depends on what images the specific program was trained on. Our isntructor suggested that the program may be able to recognize the landscapes and colors of images because those features are apparent within he impressionist painting it is familiar with. 
 
-This exercise was a great way for participants of the course to explore an image analytic program, as well as examine how the machine categorizes a visual corpus. I can see how these tools can be used to help spot visual patterns that may have been overlooked by the human eye. These programs kight be able to give scholars a new perspective on their corpus 
+This exercise was a great way for participants of the course to explore an image analytic program, as well as examine how the machine categorizes a visual corpus. This introduction to image analytics was very thought-provoking
+
+
+
