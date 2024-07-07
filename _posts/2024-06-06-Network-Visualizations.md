@@ -2,7 +2,7 @@ Text visualizations transform complex textual data into visual representations t
 
 Network visualizations refer to graphical representations of networks, which are structures composed of nodes (vertices/connected dots) and edges (links/connecting lines) that connect pairs of nodes. 
 
-                 ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHpqcnBvcW51NnNseWxnNDNvMDhucnJ0ZnF2Z3VuZmg3cHExNDZqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fw8uZriJW4TlhmZnUj/giphy-downsized-large.gif)
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHpqcnBvcW51NnNseWxnNDNvMDhucnJ0ZnF2Z3VuZmg3cHExNDZqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fw8uZriJW4TlhmZnUj/giphy-downsized-large.gif)
 
 In literary studies, these visualizations depict and analyze relationships, interactions, connections, and patterns within narratives. Interactive network visualizations allow users to explore and interact with the network data. Users can zoom in and out, filter nodes or edges based on attributes, highlight connections, and uncover patterns or anomalies. 
 
